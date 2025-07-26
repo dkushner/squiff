@@ -5,6 +5,9 @@ language = "en"
 src = "book"
 title = "Squiff Documentation"
 
+[build]
+build-dir = "./book/public"
+
 [preprocessor]
 
 [preprocessor.admonish]

@@ -1,5 +1,5 @@
 # Squiff
-The worst scripting language, immortalized.
+*The famous ArmA scripting language, immortalized.*
 
 ## Origins
 I've spent a great deal of my life creating, modifying and playing missions in the video game ArmA by Bohemia Interactive. It's been a touchstone of my friend group for over a decade and I've come to cherish every experience, no matter how jank. In this process, I've become familiar with the bespoke scripting language Bohemia uses across these games: SQF. 
