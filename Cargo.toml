@@ -1,0 +1,13 @@
+[workspace]
+members = ["crates/*"]
+resolver = "3"
+
+[workspace.package]
+version = "0.1.0-dev"
+edition = "2024"
+authors = ["David Kushner <root@davidkushner.me>"]
+keywords = ["interpreter", "script"]
+repository = "https://github.com/dkushner/squiff"
+license = "MIT"
+
+[workspace.dependencies]
