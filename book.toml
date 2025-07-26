@@ -5,8 +5,6 @@ language = "en"
 src = "book"
 title = "Squiff Documentation"
 
-[preprocess.links]
-
 [preprocessor]
 
 [preprocessor.admonish]
